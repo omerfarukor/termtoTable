@@ -14,7 +14,7 @@ python termtotable/cli.py
 ## Neden basit bir scraper değil
 
 MEB takvimi her yıl farklı bir haber ID'sinde yayımlıyor. Sabit URL'li bir
-script bir yıl sonra ölmez — daha kötüsünü yapar: eski sayfayı çekmeye devam
+script bir yıl sonra ölmez daha kötüsünü yapar: eski sayfayı çekmeye devam
 eder ve geçen yılın tarihlerini bu yılın verisi gibi sunar.
 
 | Katman | Dosya | İş |
