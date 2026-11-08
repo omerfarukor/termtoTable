@@ -5,3 +5,4 @@ cat > .gitignore << 'EOF'
 __pycache__/
 *.pyc
 .DS_Store
+~$*
